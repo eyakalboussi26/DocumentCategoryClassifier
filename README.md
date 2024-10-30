@@ -6,7 +6,7 @@ Chargement et conversion de PDF en images :
 L'utilisateur peut télécharger un fichier PDF. Chaque page sera convertie en une image au format PNG.
 1. Classification avec YOLOv5 :
 Les images sont traitées par un modèle YOLOv5 pour identifier et annoter les objets détectés avec des boîtes de délimitation et des labels de classification. Cette partie utilise YOLOv5 pour entraîner un modèle de détection et de classification d'objets à partir d'une image, et pour effectuer des inférences sur un ensemble d'images. Les images seront classées en 9 catégories :'caption', 'equation', 'figure', 'footnote', 'list', 'note', 'paragraph', 'table', et 'title'.
-![Description de l'image](C:\Users\ekalboussi\OneDrive - ALTEN Group\Images\captures_web)
+![Description de l'image]
 
 
 2. Visualisation des images avec annotations de classification.
