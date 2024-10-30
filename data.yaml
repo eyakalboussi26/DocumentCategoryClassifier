@@ -1,0 +1,7 @@
+train: C:/Users/ekalboussi/Documents/YoloProcessing/Classification_images/Second_model/Dataset_2/test/images
+val: C:/Users/ekalboussi/Documents/YoloProcessing/Classification_images/Second_model/Dataset_2/valid/images
+test: C:/Users/ekalboussi/Documents/YoloProcessing/Classification_images/Second_model/Dataset_2/test/images
+
+nc: 9
+names: ['caption', 'equation', 'figure', 'footnote', 'list', 'note', 'paragraph', 'table', 'title']
+
